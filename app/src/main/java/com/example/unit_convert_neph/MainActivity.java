@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onNothingSelected(AdapterView<?> parent) { }
 
-            public void handleClicked(View v){
+            public void handleClicked(){
 
 
 
