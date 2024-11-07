@@ -4,6 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green"></color>
     <color name="toolbar_background">#0ad6fa</color>
+    <color name="textColor">#FF000000</color>
 
 
 </resources>

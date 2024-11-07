@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">unit_convert_neph</string>
+    <string name="app_name">MetricMate</string>
     <string-array name="conversion_types">
         <item>Distance</item>
         <item>Weight</item>
@@ -38,4 +38,5 @@
         <item>Miles per hour</item>
         <item>Meters per second</item>
     </string-array>
+
 </resources>
